@@ -1,78 +1,61 @@
 # Genesis Virtual Grid (GVG)
 
-**Genesis Virtual Grid** is a Layer 1 blockchain protocol purpose-built for the decentralized creative economy. It merges verifiable AI, tokenization of physical and digital assets, dynamic NFT infrastructure, and privacy-first architecture into a cohesive, scalable chain.
+**Genesis Virtual Grid** is a next-generation Layer 1 blockchain protocol designed for the decentralized creative economy. It unifies deterministic execution, AI-native tooling, verifiable privacy, and tokenization infrastructure into a performant and modular chain.
 
-Genesis is engineered for creators, developers, and researchers who require more than general-purpose chains can offer — including deterministic execution, programmable privacy, and AI-native tooling.
-
----
-
-## Vision
-
-We believe that the next wave of cultural, creative, and financial systems will be powered by blockchains that are:
-
-- **Energy-efficient and predictable** (no unpredictable gas fees)
-- **Built for intelligent computation** (AI-inference with proof)
-- **Privacy-aware and compliance-capable**
-- **Rooted in artistic, cultural, and physical value**
-
-Genesis is being developed to serve as this foundational infrastructure.
+Built from the ground up for creators, technologists, and institutions, Genesis reimagines what a purpose-built chain for art, intelligence, and ownership should look like.
 
 ---
 
-## Key Concepts
+## 🔑 Key Concepts
 
-- **Truss Energy System**  
-  A deterministic execution model that replaces gas with predictable energy credits.
+- **Truss-Based Execution**  
+  Zero-fee, energy-based logic replaces gas with predictable and equitable interaction costs.
 
 - **Genesis Virtual Grid (GVG)**  
-  A custom execution environment compatible with Ethereum's EVM, extended with ZK support and AI hooks.
+  A smart contract engine compatible with EVM, but extended with native ZK support and secure AI model interfacing.
 
-- **AI Integration**  
-  Native support for off-chain inference, proof of AI outputs, and on-chain interaction with generative systems.
+- **AI & ZK Infrastructure**  
+  Secure, scalable off-chain inference verified via cryptographic proofs and zk-attested outputs.
 
-- **On-Chain Privacy & Compliance**  
-  Modular privacy options using zero-knowledge proofs, verifiable credentials, and regulatory interfacing without exposing PII.
+- **Modular Privacy Architecture**  
+  Selective visibility, DID-based compliance, and on-chain proof systems with no PII exposure.
 
-- **Tokenization Infrastructure**  
-  NFC/RFID anchoring, dynamic metadata, and evolving digital assets.
-
----
-
-## Status
-
-This repository will soon contain:
-
-- Core protocol implementation
-- Execution engine and runtime specifications
-- Validator architecture and node setup
-- Documentation and SDK for developers
-- Tools for ZK and AI integration
+- **Tokenization & Dynamic Assets**  
+  Real-world assets tokenized with NFC anchors, and NFTs that evolve with user interaction and off-chain data.
 
 ---
 
-## Goals
+## 🌐 Website
 
-1. Launch a working DevNet with validator and observer node architecture.
-2. Release Genesis SDK for developers.
-3. Provide Truss-based execution testing and energy estimation.
-4. Enable zk-proof integration and AI inference hooks.
-5. Open governance framework and validator onboarding.
+Visit [https://g.vg](https://g.vg) for official updates, documentation (coming soon), and more.
 
 ---
 
-## Contributing
+## 📦 Repository Status
 
-We’re building this in phases. If you’re interested in contributing:
+This repository will include:
 
-- Follow project updates (coming soon)
-- Reach out to the team via verified channels
-- Wait for contributor guidelines and modules to be made public
+- Core protocol specifications
+- Genesis Virtual Grid runtime modules
+- Validator node setup
+- Developer SDK and testnet tools
+- zk + AI extension modules
 
----
-
-## License
-
-All content in this repository is copyright (c) 2025 Genesis Virtual Grid. Licensing terms will be made available once modules are published.
+Code and modules will be released progressively.
 
 ---
 
+## 🤝 Contributing
+
+Contributions will be open soon. In the meantime:
+
+- Follow project updates at [https://g.vg](https://g.vg)
+- Reach out to the core team via official channels when contributor access opens
+
+---
+
+## ⚖️ License
+
+All rights reserved © 2025 Genesis Virtual Grid. Licensing terms will be defined per module upon public release.
+
+---
