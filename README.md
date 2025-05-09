@@ -27,7 +27,7 @@ Built from the ground up for creators, technologists, and institutions, Genesis 
 
 ## 🌐 Website
 
-Visit [https://g.vg](g.vg) for official updates, documentation (coming soon), and more.
+Visit [g.vg](https://g.vg) for official updates, documentation (coming soon), and more.
 
 ---
 
@@ -49,7 +49,7 @@ Code and modules will be released progressively.
 
 Contributions will be open soon. In the meantime:
 
-- Follow project updates at [https://g.vg](g.vg)
+- Follow project updates at [g.vg](https://g.vg)
 - Reach out to the core team via official channels when contributor access opens
 
 ---
